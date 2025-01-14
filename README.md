@@ -9,7 +9,7 @@
     cd 90NorthTask1
    
 3.   **Install dependencies**
-    ```bash
+   ```bash
      npm install
 
 5.  **Start the development server**
