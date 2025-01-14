@@ -8,7 +8,7 @@ cd 90NorthTask1
 npm install
 
 # Start the development server
-npm start
+npm run dev
 
 # Access the application
 # Open your browser and go to: http://localhost:3000
